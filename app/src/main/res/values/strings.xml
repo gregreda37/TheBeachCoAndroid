@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FinalProjectFall2019</string>
+    <string name="companyName">The Beach Co.</string>
+    <string name="sweatshirt">Sweatshirts</string>
+    <string name="teeShirt">Tee Shirts</string>
+    <string name="longSleeve">Long Sleeves</string>
+    <string name="quarterZip">Quarter Zip</string>
+    <string name="letsDoIt">Lets Do It!</string>
+    <string name="webView">Web View</string>
+    <string name="appView">App View</string>
+    <string name="longSleeveDescription">All of our shirts are inspired by the beach vibe and lifestyle. We are very careful when picking up colors and designs for all of our merchandise. Every shirt comes with a pocket design anlong with a design on the back. We know you\'ll love our shirts because we believe in The Beach life style. You will rock this shirt and your friends will ask you where you got it!</string>
+    <string name="quarterZipDescription">All of our sweaters are inspired by the beach vibe and lifestyle. We are very careful when picking up colors and designs for all of our merchandise. Every sweater comes with a front chest design anlong with a design on the back. We know you\'ll love our sweaters because we believe in The Beach life style. You will rock this sweater and your friends will ask you where you got it!</string>
+    <string name="sweatshirtDescription">All of our hoodies are inspired by the beach vibe and lifestyle. We are very careful when picking up colors and designs for all of our merchandise. Every hoodie comes with a front chest design that will give everyone including you the beach vibes one craves. We know you\'ll love our hoodie because we believe in The Beach life style. You will rock this hoodie and your friends will ask you where you got it!</string>
+    <string name="teeShirtDescription">All of our T-shirts are inspired by the beach vibe and lifestyle. We are very careful when picking up colors and designs for all of our merchandise. Every T-shirt comes with a front chest design anlong with a design on the back. We know you\'ll love our T-shirt because we believe in The Beach life style. You will rock this T-shirt and your friends will ask you where you got it!</string>
+    <string name="EditTextHint">"How happy are you! "</string>
+    <string name="happinessLevel">Happiness Level:</string>
+</resources>
